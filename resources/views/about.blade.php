@@ -8,6 +8,8 @@
 
  <!-- Page Header Start -->
  <div class="page-header about-page-header bg-radius-section parallaxie">
+
+
 		<div class="container">
 			<div class="row align-items-center">
 				<div class="col-lg-12">
