@@ -13,7 +13,7 @@
 				<div class="col-lg-12">
 					<!-- Page Header Box Start -->
 					<div class="page-header-box">
-						<h1 class="text-anime-style-2" data-cursor="-opaque">About Us</h1>
+						<h1 class="text-anime-style-2" data-cursor="-opaque">About Us main</h1>
 						<nav class="wow fadeInUp">
 							<ol class="breadcrumb">
 								<li class="breadcrumb-item"><a href="#">home</a></li>
