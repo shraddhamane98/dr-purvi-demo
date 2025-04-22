@@ -1,4 +1,4 @@
-@php($title = "")
+@php($title = "hello")
 @section('meta_desc')
 @endsection
 @extends('layouts.default')
