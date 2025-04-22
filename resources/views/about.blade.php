@@ -40,6 +40,7 @@
                         <!-- Section Title Start -->
                         <div class="section-title">
                             <h2 class="text-anime-style-3" data-cursor="-opaque">Dr. Purvi Deshpande</h2>
+                            <p class="text-anime-style-3" data-cursor="-opaque">Dr. Purvi </p>
                             <p class="wow fadeInUp" data-wow-delay="0.25s">Welcome to Dr. Purvi Deshpande's Rehabilitation Clinic, where we specialize in restoring function, alleviating pain, and enhancing quality of life through expert physiotherapy services. Dr. Purvi Deshpande, a seasoned physiotherapist based in Navi Mumbai, passionately combines advanced techniques with compassionate care to guide each patient on their unique path to recovery.</p>
                         </div>
                         <!-- Section Title End -->
