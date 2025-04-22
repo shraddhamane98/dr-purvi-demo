@@ -1,4 +1,4 @@
-@php($title = "")
+@php($title = "purvi gallery")
 @section('meta_desc')
 @endsection
 @extends('layouts.default')
